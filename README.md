@@ -1,16 +1,33 @@
 ## Hi there 👋
 
-<!--
-**Sharan04-naik/Sharan04-naik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Sharan 👋
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 Computer Science Student
+- ☁️ Interested in Cloud Computing & Backend Development
+- 📱 Building Real-World Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+### 💻 Programming Languages
+- Java
+- Python
+- C
+- C++
+
+### 🗄 Database
+- MySQL
+
+### 🔧 Tools & Version Control
+- Git
+- GitHub
+
+## 📚 Currently Learning
+- Spring Boot
+- REST APIs
+- System Design
+
+## 📫 Contact
+- LinkedIn: (www.linkedin.com/in/
+sharan-k-naik-9a4306291
+)
